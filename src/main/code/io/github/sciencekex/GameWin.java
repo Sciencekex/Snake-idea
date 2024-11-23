@@ -4,12 +4,12 @@
  * @时间:2024年06月04日 16:02:01
  */
 //kotlin开始重构
-package com.yjt;
+package io.github.sciencekex;
 
-import com.yjt.obj.BodyObj;
-import com.yjt.obj.FoodObj;
-import com.yjt.obj.HeadObj;
-import com.yjt.utils.GameUtils;
+import io.github.sciencekex.obj.BodyObj;
+import io.github.sciencekex.obj.FoodObj;
+import io.github.sciencekex.obj.HeadObj;
+import io.github.sciencekex.utils.GameUtils;
 
 import javax.swing.*;
 import java.awt.*;

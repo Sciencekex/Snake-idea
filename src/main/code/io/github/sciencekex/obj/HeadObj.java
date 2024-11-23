@@ -1,7 +1,7 @@
-package com.yjt.obj;
+package io.github.sciencekex.obj;
 
-import com.yjt.GameWin;
-import com.yjt.utils.GameUtils;
+import io.github.sciencekex.GameWin;
+import io.github.sciencekex.utils.GameUtils;
 
 import java.awt.*;
 import java.awt.event.KeyAdapter;

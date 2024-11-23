@@ -1,6 +1,6 @@
-package com.yjt.obj;
+package io.github.sciencekex.obj;
 
-import com.yjt.GameWin;
+import io.github.sciencekex.GameWin;
 
 import java.awt.*;
 
