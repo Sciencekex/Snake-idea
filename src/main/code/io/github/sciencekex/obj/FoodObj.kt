@@ -1,31 +1,25 @@
-package io.github.sciencekex.obj;
+package io.github.sciencekex.obj
 
-import io.github.sciencekex.GameWin;
-import io.github.sciencekex.utils.GameUtils;
+import io.github.sciencekex.GameWin
+import io.github.sciencekex.utils.GameUtils
+import java.awt.Graphics
+import java.awt.Image
+import java.util.Random
 
-import java.awt.*;
-import java.util.Random;
-
-public class FoodObj extends GameObj{
-
+class FoodObj : GameObj {
     //随机函数
-    Random r=new Random();
+    var r: Random = Random()
 
-    public FoodObj() {
-        super();
-    }
+    constructor() : super()
 
-    public FoodObj(Image img, int x, int y, GameWin frame) {
-        super(img, x, y, frame);
-    }
+    constructor(img: Image?, x: Int, y: Int, frame: GameWin?) : super(img, x, y, frame)
 
     //获取食物
-    public FoodObj getFood(){
-        return new FoodObj(GameUtils.foodImg,r.nextInt(20)*30,(r.nextInt(19)+1)*30,this.frame);
+    fun getFood(): FoodObj {
+        return FoodObj(GameUtils.foodImg, r.nextInt(20) * 30, (r.nextInt(19) + 1) * 30, this.frame)
     }
 
-    @Override
-    public void paintSelf(Graphics g) {
-        super.paintSelf(g);
+    override fun paintSelf(g: Graphics) {
+        super.paintSelf(g)
     }
 }
