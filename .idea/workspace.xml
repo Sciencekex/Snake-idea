@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c473e5a-e037-46b3-8a9d-ce9e858eb85d" name="更改" comment="Kt重构,我终于解决了大部分困难!!!!!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,7 @@
       <workItem from="1732356675865" duration="917000" />
       <workItem from="1732357603024" duration="18000" />
       <workItem from="1732357845613" duration="12000" />
-      <workItem from="1732357865577" duration="212000" />
+      <workItem from="1732357865577" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="Kt重构!!!">
       <option name="closed" value="true" />
@@ -165,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732357330741</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Kt重构,我终于解决了大部分困难!!!!!">
+      <option name="closed" value="true" />
+      <created>1732358105678</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732358105680</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
