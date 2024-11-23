@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c473e5a-e037-46b3-8a9d-ce9e858eb85d" name="更改" comment="Kt重构,我终于解决了大部分困难!!!!!">
+      <change beforePath="$PROJECT_DIR$/src/main/code/io/github/sciencekex/obj/GameObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/code/io/github/sciencekex/obj/GameObj.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sciencekex&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sciencekex/Snake-idea.git&quot;,
+    &quot;accountId&quot;: &quot;a44158c8-3f96-41ec-a5ab-31de214b9d76&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\app-code\apache-maven-3.9.9" />
+        <option name="localRepository" value="D:\app-code\apache-maven-3.9.9\maven-repo" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\app-code\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pFBiH16ysFeMWUCqRo28loLhjo" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.GameWin.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;785fd304&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.GameWin.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0c473e5a-e037-46b3-8a9d-ce9e858eb85d" name="更改" comment="" />
+      <created>1732352069741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732352069741</updated>
+      <workItem from="1732352070857" duration="3036000" />
+      <workItem from="1732356675865" duration="917000" />
+      <workItem from="1732357603024" duration="18000" />
+    </task>
+    <task id="LOCAL-00001" summary="Kt重构!!!">
+      <option name="closed" value="true" />
+      <created>1732352173223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732352173223</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Kt重构!!!">
+      <option name="closed" value="true" />
+      <created>1732352305403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732352305403</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Kt重构!!!">
+      <option name="closed" value="true" />
+      <created>1732352709134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732352709134</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Kt重构遇到了困难!!!!!">
+      <option name="closed" value="true" />
+      <created>1732353251607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732353251607</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Kt重构遇到了困难!!!!!">
+      <option name="closed" value="true" />
+      <created>1732353268844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732353268844</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Kt重构解决了部分困难!!!!!">
+      <option name="closed" value="true" />
+      <created>1732353734817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732353734817</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Kt重构,我终于解决了大部分困难!!!!!">
+      <option name="closed" value="true" />
+      <created>1732357330741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732357330741</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kt重构!!!" />
+    <MESSAGE value="Kt重构遇到了困难!!!!!" />
+    <MESSAGE value="Kt重构解决了部分困难!!!!!" />
+    <MESSAGE value="Kt重构,我终于解决了大部分困难!!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kt重构,我终于解决了大部分困难!!!!!" />
+  </component>
+</project>
